@@ -1,0 +1,16 @@
+Entrada de datos:
+- 8bits (N).
+- 8bits (R0).
+- 8bits (R1).
+- 4bits (banderas).
+- 5bits (Instrucciones).
+
+Salidas:
+- 8bits (ACC).
+- 8bits (ACC2).
+- 4bits (Banderas)
+
+- Para cada bloque de instrucción haz un bus de datos de entrada de 28 bits para que pongas
+todas tus entradas.
+- Para cada bloque instrucción haz un bus de datos de salida de 20 bits para que pongas todas
+tus salidas
