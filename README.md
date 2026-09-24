@@ -1,8 +1,5 @@
 # ALU
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/9e1ccfb4-12c9-4e51-869d-7f900a64b5a6" />
-
----
-
+## Hay que hacer el vidio
 ## Objetivo
 Diseñar e implementar en el simulador Logisim el ALU (Unidad Aritmética Lógica).
 
